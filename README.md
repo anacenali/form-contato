@@ -17,3 +17,9 @@ Form-contato criado durante as aulas de Fundamentos de Desenvolvimento Web, cria
 * git commit -m ""
 * git push
 * git status
+### Sites Utilizados
+* Zendesc.com
+* loopnerd.com
+*
+### Autores 
+ <img src="ana autora.jpg">
